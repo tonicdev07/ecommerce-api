@@ -134,6 +134,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - And more...
 
 <div>
+<img src='./src/assets/demo/Screenshot_4.jpg'>
+<img src='./src/assets/demo/Screenshot_5.jpg'>
+<img src='./src/assets/demo/Screenshot_6.jpg'>
+<img src='./src/assets/demo/Screenshot_7.jpg'>
+<img src='./src/assets/demo/Screenshot_8.jpg'>
+<img src='./src/assets/demo/Screenshot_9.jpg'>
 <img src='./src/assets/demo/Screenshot_10.jpg'>
+<img src='./src/assets/demo/Screenshot_11.jpg'>
 
 </div>
