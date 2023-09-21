@@ -125,9 +125,15 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - This works much better from an SEO point of view
 
 -- ADMIN
+
 - Create any product categories, sections, parts
 - Attach the product to each section
 - Write a perfect beautiful description about the product
 - When uploading images, automatically load the image size to the minimum view.
 - Get, search, place, update and delete products in a convenient table move
 - And more...
+
+<div>
+<img src='./src/assets/demo/Screenshot_10.jpg'>
+
+</div>
